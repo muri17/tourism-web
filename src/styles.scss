@@ -1,6 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
 .imgFondo {
-  background: transparent url('./assets/fondo.png') 0% 0% no-repeat padding-box;
+  background: transparent url('./assets/fondo2.png') 0% 0% no-repeat padding-box;
   background-size: cover;
   padding-bottom: 160%;
+}
+
+.logoFondo {
+  background: transparent url('./assets/logo-gif.gif') 0% 0% no-repeat padding-box;
+  background-size: contain;
+  // padding-bottom: 160%;
 }
