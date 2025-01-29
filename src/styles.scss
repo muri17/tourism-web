@@ -6,7 +6,8 @@
 }
 
 .logoFondo {
-  background: transparent url('./assets/logo-gif.gif') 0% 0% no-repeat padding-box;
-  background-size: contain;
-  // padding-bottom: 160%;
+  background: url('./assets/logo-gif.gif') center center / cover no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding-bottom: 52%;
 }
