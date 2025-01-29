@@ -6,9 +6,6 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./home.component.scss']
 })
 export class HomeComponent implements OnInit {
-  cryptos: any;
-  cryptosBuySell: any;
-  readyCrypto: boolean = false;
 
   constructor() { }
 
